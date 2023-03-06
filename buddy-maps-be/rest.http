@@ -1,0 +1,6 @@
+POST http://localhost:3000/api/location/find 
+Content-Type: application/json
+
+{
+    "message" : "Hello Ojha"
+}
